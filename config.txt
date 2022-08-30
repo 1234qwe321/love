@@ -1,0 +1,26 @@
+"app_id": "wx8f0b7d54c1a821b4",
+"app_secret": "0af6601278aceb727bccfd4a7d649a5c",
+
+"template_id": "IKaGAxYFP3VJsLZ9VJnkiDPuzj6LGs9NKHDsZ_xTd8c",
+"user_id": ["whswbun"],
+
+"C_ShengFen": "兰州",
+"C_ChengShi": "白银",
+
+"C_String01": "昨天已经想你了",
+"C_String02": "今天又开始想你了",
+"C_String03": "明天持续想你",
+
+
+# 天气预报
+"API_TQYB":"e6b7d6d6a29c10d68133bf891c97200f",
+# 早安心语
+"API_ZAXY":"e6b7d6d6a29c10d68133bf891c97200f",
+# 晚安心语
+"API_WAXY":"e6b7d6d6a29c10d68133bf891c97200f
+
+# 爱你日记
+"API_TGRJ":"e6b7d6d6a29c10d68133bf891c97200f
+# 土味情话
+"API_TWQH":"e6b7d6d6a29c10d68133bf891c97200f"
+}
